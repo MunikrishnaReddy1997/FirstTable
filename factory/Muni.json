@@ -1,0 +1,9 @@
+{
+	"name": "Muni",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f53838a0-3de9-41bc-8ed4-d8a979bba05b",
+		"tenantId": "6f19546b-ee26-4605-83dd-5ae95575084c"
+	}
+}
